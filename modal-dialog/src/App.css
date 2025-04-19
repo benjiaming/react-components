@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.dialog {
+  border-radius: 5px;
+  background-color: lightblue;
+  box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, 0.2);
+}
