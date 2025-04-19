@@ -1,0 +1,29 @@
+body {
+  font-family: sans-serif;
+}
+
+.accordion {
+  display: flex;
+  flex-direction: column;
+  max-width: 600px;
+}
+.accordion-icon {
+  display: block;
+  border: solid currentcolor;
+  border-width: 0 2px 2px 0;
+  height: 8px;
+  pointer-events: none;
+  transform: translateY(-2px) rotate(45deg);
+  width: 8px;
+  margin-left: auto;
+}
+
+.accordionTitle {
+  display: flex;
+  border: 1px lightgray solid;
+  padding: 5px;
+  align-items: center;
+}
+.accordion-icon--rotated {
+  transform: translateY(2px) rotate(-135deg);
+}
