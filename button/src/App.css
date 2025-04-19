@@ -1,0 +1,22 @@
+#root {
+  display: flex;
+  justify-content: center;
+  width: 100vw;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.toggle-button {
+  color: white;
+  border-radius: 5px;
+}
+
+.toggle-button-true {
+  background-color: green;
+}
+
+.toggle-button-false {
+  background-color: red;
+}
