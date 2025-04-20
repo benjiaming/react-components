@@ -1,0 +1,26 @@
+.timers-wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.timers {
+    overflow: scroll;
+    height: calc(100vh - 170px);
+    display: flex;
+    flex-direction: column;
+}
+
+.timer {
+    display: flex;
+    justify-self: space-between;
+    gap: 1rem;
+}   
+
+input[type="number"] {
+    width: 30px;
+    height: 20px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    padding: 5px;
+    margin: 5px;
+}

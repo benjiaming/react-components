@@ -7,3 +7,4 @@ Implementing various common React components using different React frameworks:
 * [Debounced Input](debounced-input/src/routes/index.tsx): TanStack Router 
 * [Modal-Dialog](modal-dialog/src/ModalDialog.tsx): parcel
 * [Tabs](tabs/app/tabs/tabs.tsx): React Router
+* [Timers](timers/components/Timers.tsx): Expo
