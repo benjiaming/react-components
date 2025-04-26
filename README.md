@@ -8,7 +8,5 @@ Implementing various common React components from scratch using different React 
 * [Infinite Scroll](infinite-scroll/src/InfiniteScroll.tsx): Bun.sh
 * [Modal-Dialog](modal-dialog/src/ModalDialog.tsx): parcel https://react-components-yzgm.vercel.app/
 * [Tabs](tabs/app/tabs/tabs.tsx): React Router https://react-components-eta-one.vercel.app/
-* [Timers](timers/components/Timers.tsx): Expo
+* [Timers](timers/components/Timers.tsx): Expo https://snack.expo.dev/@benjiaming/timers
 
-<div data-snack-id="@benjiaming/timers" data-snack-platform="web" data-snack-preview="true" data-snack-theme="light" style="overflow:hidden;background:#fbfcfd;border:1px solid var(--color-border);border-radius:4px;height:505px;width:100%"></div>
-<script async src="https://snack.expo.dev/embed.js"></script>
