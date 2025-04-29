@@ -8,6 +8,7 @@ Build an Accordion component that displays a list of vertically stacked sections
 * If the section is collapsed, the section will be expanded and the contents will be displayed.
 * If the section is expanded, the section will be collapsed and the contents will be hidden.
 * The sections are independent of each other.
+  
 ## Setup
 
 Install the dependencies:
