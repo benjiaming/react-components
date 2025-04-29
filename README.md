@@ -1,7 +1,7 @@
 # react-components
 
 Implementing various common React components from scratch using different React frameworks:
-* [Accordion](accordion/src/Accordion.tsx): rsbuild
+* [Accordion](accordion/src/Accordion.tsx): rsbuild https://react-components-yvg1.vercel.app/
 * [Button](button/src/ToggleButton.tsx): vite
 * [Carousel](carousel/src/app/ImageCarousel.tsx): NextJS https://react-components-ubcq.vercel.app/
 * [Debounced Input](debounced-input/src/routes/index.tsx): TanStack Router 
